@@ -1,0 +1,12 @@
+/Users/mauireyes/Projects/Doom/src/Doom.Common/bin/Debug/netstandard2.0/Doom.Common.deps.json
+/Users/mauireyes/Projects/Doom/src/Doom.Common/bin/Debug/netstandard2.0/Doom.Common.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Common/bin/Debug/netstandard2.0/Doom.Common.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Common/bin/Debug/netstandard2.0/Microsoft.Extensions.Hosting.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Common/bin/Debug/netstandard2.0/Microsoft.Extensions.Hosting.xml
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.csproj.CoreCompileInputs.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.AssemblyInfoInputs.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.AssemblyInfo.cs
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.csproj.CopyComplete
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Common/obj/Debug/netstandard2.0/Doom.Common.csprojAssemblyReference.cache

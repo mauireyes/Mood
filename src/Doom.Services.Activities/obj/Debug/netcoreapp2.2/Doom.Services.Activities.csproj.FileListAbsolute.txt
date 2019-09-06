@@ -1,0 +1,17 @@
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Services.Activities.deps.json
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Services.Activities.runtimeconfig.json
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Services.Activities.runtimeconfig.dev.json
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Services.Activities.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Services.Activities.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Common.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/bin/Debug/netcoreapp2.2/Doom.Common.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.csprojAssemblyReference.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.csproj.CoreCompileInputs.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.RazorAssemblyInfo.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.RazorAssemblyInfo.cs
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.AssemblyInfoInputs.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.AssemblyInfo.cs
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.RazorTargetAssemblyInfo.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.csproj.CopyComplete
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Activities/obj/Debug/netcoreapp2.2/Doom.Services.Activities.pdb

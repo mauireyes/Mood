@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/mauireyes/Projects/Doom/src/Doom.Common/Doom.Common.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

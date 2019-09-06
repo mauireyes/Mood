@@ -1,0 +1,84 @@
+﻿<Properties StartupConfiguration="{60F0B1D5-077C-45CA-B00C-1DCCDA9443D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Doom.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Doom.Services.Identity/Repositories/UserRepository.cs">
+    <Files>
+      <File FileName="src/Doom.Common/Commands/CreateMood.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Commands/IAuthenticatedCommand.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Commands/AuthenticateUser.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Commands/ICommandHandler.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/MoodCreated.cs" Line="33" Column="34" />
+      <File FileName="src/Doom.Common/Commands/CreateUser.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/UserAuthenticated.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/CreateUserRejected.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/IEventHandler.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Commands/ICommand.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Class1.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Doom.Common.csproj" Line="19" Column="80" />
+      <File FileName="src/Doom.Common/Services/IServiceHost.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Services/ServiceHost.cs" Line="121" Column="18" />
+      <File FileName="src/Doom.Common/RabbitMq/Extensions.cs" Line="25" Column="18" />
+      <File FileName="src/Doom.Api/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Api/Controllers/MoodController.cs" Line="36" Column="42" />
+      <File FileName="src/Doom.Api/Controllers/UsersController.cs" Line="23" Column="23" />
+      <File FileName="src/Doom.Common/RabbitMq/RabbitMqOptions.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Api/appsettings.json" Line="24" Column="18" />
+      <File FileName="src/Doom.Services.Identity/appsettings.json" Line="39" Column="8" />
+      <File FileName="src/Doom.Services.Activities/appsettings.json" Line="16" Column="5" />
+      <File FileName="src/Doom.Api/Startup.cs" Line="41" Column="13" />
+      <File FileName="src/Doom.Api/Handlers/MoodCreatedHandler.cs" Line="13" Column="8" />
+      <File FileName="src/Doom.Api/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="src/Doom.Api/Program.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Identity/Startup.cs" Line="54" Column="1" />
+      <File FileName="src/Doom.Services.Identity/Program.cs" Line="35" Column="1" />
+      <File FileName="src/Doom.Services.Activities/Program.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Activities/Startup.cs" Line="56" Column="12" />
+      <File FileName="src/Doom.Services.Activities/Handlers/CreateMoodHandler.cs" Line="54" Column="43" />
+      <File FileName="src/Doom.Services.Activities/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Activities/Doom.Services.Activities.csproj" Line="22" Column="14" />
+      <File FileName="src/Doom.Services.Activities/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Api/Doom.Api.csproj" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Identity/Doom.Services.Identity.csproj" Line="18" Column="28" />
+      <File FileName="src/Doom.Common/Events/UserCreated.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/IAuthenticatedEvent.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/IEvent.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Events/IRejectedEvent.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Activities/Domain/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Activities/Domain/Models/Mood.cs" Line="2" Column="11" />
+      <File FileName="src/Doom.Services.Activities/Domain/Repositories/ICategoryRepository.cs" Line="14" Column="6" />
+      <File FileName="src/Doom.Services.Activities/Domain/Repositories/IMoodRepository.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Mongo/MongoOptions.cs" Line="8" Column="39" />
+      <File FileName="src/Doom.Common/Mongo/Extensions.cs" Line="22" Column="9" />
+      <File FileName="src/Doom.Common/Mongo/IDatabaseInitializer.cs" Line="11" Column="1" />
+      <File FileName="src/Doom.Common/Mongo/MongoInitializer.cs" Line="32" Column="21" />
+      <File FileName="src/Doom.Services.Activities/Repositories/CategoryRepository.cs" Line="26" Column="10" />
+      <File FileName="src/Doom.Services.Activities/Repositories/MoodRepository.cs" Line="34" Column="1" />
+      <File FileName="src/Doom.Common/Mongo/IDatabaseSeeder.cs" Line="9" Column="11" />
+      <File FileName="src/Doom.Common/Mongo/MongoSeeder.cs" Line="17" Column="10" />
+      <File FileName="src/Doom.Services.Activities/Services/CustomMongoSeeder.cs" Line="29" Column="15" />
+      <File FileName="src/Doom.Api/Controllers/IMoodRepository.cs" Line="1" Column="1" />
+      <File FileName="src/Doom.Common/Exceptions/DoomException.cs" Line="3" Column="15" />
+      <File FileName="src/Doom.Services.Activities/Services/IMoodService.cs" Line="9" Column="62" />
+      <File FileName="src/Doom.Services.Activities/Services/MoodService.cs" Line="3" Column="11" />
+      <File FileName="src/Doom.Common/Events/CreateMoodRejected.cs" Line="20" Column="10" />
+      <File FileName="src/Doom.Services.Identity/Domain/Models/User.cs" Line="53" Column="2" />
+      <File FileName="src/Doom.Services.Identity/Domain/Repositories/IUserRepository.cs" Line="18" Column="1" />
+      <File FileName="src/Doom.Services.Identity/Domain/Services/IEncrypter.cs" Line="8" Column="26" />
+      <File FileName="src/Doom.Services.Identity/Domain/Services/Encrypter.cs" Line="6" Column="40" />
+      <File FileName="src/Doom.Services.Identity/Handlers/CreateUserHandler.cs" Line="81" Column="50" />
+      <File FileName="src/Doom.Services.Identity/Services/IUserService.cs" Line="9" Column="1" />
+      <File FileName="src/Doom.Services.Identity/Services/UserService.cs" Line="51" Column="27" />
+      <File FileName="src/Doom.Services.Identity/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="src/Doom.Services.Identity/Repositories/UserRepository.cs" Line="37" Column="1" />
+      <File FileName="src/Doom.Services.Identity/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/2.2.104/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="1" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/2.2.104/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets" Line="1" Column="1" />
+      <File FileName="src/Doom.Api/Handlers/UserCreatedHandler.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

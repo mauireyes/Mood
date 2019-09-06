@@ -1,0 +1,17 @@
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Services.Identity.deps.json
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Services.Identity.runtimeconfig.json
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Services.Identity.runtimeconfig.dev.json
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Services.Identity.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Services.Identity.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Common.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/bin/Debug/netcoreapp2.2/Doom.Common.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.csproj.CoreCompileInputs.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.RazorAssemblyInfo.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.RazorAssemblyInfo.cs
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.AssemblyInfoInputs.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.AssemblyInfo.cs
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.RazorTargetAssemblyInfo.cache
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.csproj.CopyComplete
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.dll
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.pdb
+/Users/mauireyes/Projects/Doom/src/Doom.Services.Identity/obj/Debug/netcoreapp2.2/Doom.Services.Identity.csprojAssemblyReference.cache
