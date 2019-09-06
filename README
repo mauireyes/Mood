@@ -1,0 +1,42 @@
+The system that I have chosen to build for this project is a mood diary application.
+I feel that this application is important as we go through emotional rollercoasters,
+and because of busy schedules or other reasons, sometimes, we do not know why we feel a certain way.
+Tracking the mood and the factors that affects them can be very helpful in finding patterns and identifying negative
+influences that you need to avoid, as well as positive influences that you may improve your well-being.
+
+
+
+• User sign-up – adding new users to the system.
+• User log-in – users can log-in and is provided with an authentication token to be able
+to send requests to the API.
+• Add new entries – users can send POST requests to the API to add new mood entries.
+• Get a list of entries – users can send GET requests to the API to get a list of mood
+entries that they have saved to the database.
+
+
+Mary Louise Reyes – 10298996 - Distributed Systems Final Year Project – B8IS120
+In the solution, there is a common project. It contains helper classes and messages
+i.e. commands and events that will be used by the API, identity and activities services.
+
+API GATEWAY – whenever a request comes from the client, it comes through to the API.
+The request will then be passed to the service bus (RABBITMQ) where it will be published for other services to consume. Example:
+1. Client sends a Post request to Create a user or mood entry to the API.
+2. API will use RabbitMq to publish the Create command.
+3. A service (which is subscribed to Create command) will consume Create command.
+4. Identity service will add user to its database.
+
+The API Gateway only allows authenticated users to perform GET and POST requests.
+
+The activities microservice will handle the processes concerning mood entries,
+such as creating, reading, updating and deleting the entries.
+It subscribes to messages relating to mood on the RabbitMq service bus.
+This microservice has its own MySQL database called Moods, and it is responsible for storing the entries in the Moods table.
+
+The identity microservice handles the processes concerning application users.
+It is responsible for creating new users, hashing passwords and authentication using a JSON web token.
+It subscribes to messages relating to users on the RabbitMq service bus.
+This microservice also has its own MySQL database called Users where user data are stored.
+
+
+Each microservice has its own database because each of them are treated as a separate unit,
+with its own domain, own logic and only doing what it needs to do.
